@@ -1,0 +1,13 @@
+{
+    "name": "oc-gui",
+    "version": "0.0.1",
+    "githubrepo": "myrddraall/oc-gui",
+    "description": "",
+    "packageDependancies":{
+        "myrddraall/oc-lib": "^0.0.4",
+        "myrddraall/oc-oop": "^1.0.4"
+    },
+    "install": {
+        "lib/oc-gui/": "lib/oc-gui/*"
+    }
+}
